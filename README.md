@@ -9,4 +9,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harsh-jaiswal-141040196/) [Gmail](mailto:harshjaiswal960@gmail.com)
 
-⭐️ GitHub [hazemessam](https://github.com/14harshjaiswal)
+⭐️ GitHub [14harshjaiswal](https://github.com/14harshjaiswal)
