@@ -6,7 +6,7 @@
 
 - 🎓 Frontend Developer | 2 years of experience
 - 💼 Crafting engaging and user-friendly web experiences
-- 🌱 Currently mastering React.js and Vue.js
+- 🌱 Currently mastering React.js and Next.js
 - 👀 Passionate about clean, maintainable code
 - 🚀 Experienced in responsive design and cross-browser compatibility
 - 💡 Proficient in HTML5, CSS3, JavaScript, and related technologies
