@@ -15,6 +15,6 @@
 - 💻 Actively involved in open-source projects and tech communities
 - 📝 Strong communication skills and a collaborative team player
   
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harsh-jaiswal-141040196/) [Gmail](mailto:harshjaiswal960@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harsh-jaiswal-141040196/) [Gmail](mailto:harshjaiswal1407@gmail.com)
 
 ⭐️ GitHub [14harshjaiswal](https://github.com/14harshjaiswal)
